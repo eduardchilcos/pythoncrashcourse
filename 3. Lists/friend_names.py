@@ -1,7 +1,7 @@
 names = ['Vlad', 'Gabriel', 'Mihai']
-message_one = f"Lui {names[0]} ii place sa fie stoic."
-message_two = f"Lui {names[1]} ii place sa fie stoic."
-message_three = f"Lui {names[2]} ii place shaorma."
+message_one = f"Lui {names[0]} ii place sa fie stoic si sa lipseasca de pe orice fel de 'gram'."
+message_two = f"Lui {names[1]} nu ii place cafelutsa din ciuperci."
+message_three = f"Lui {names[2]} ii place shaorma si BitCoin-ul."
 print(message_one, message_two, message_three)
 
 modes_of_transport = ['motorcycle', 'bus', 'bike', 'rickshaw', 'airplane', 'train']
