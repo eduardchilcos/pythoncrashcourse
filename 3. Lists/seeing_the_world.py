@@ -1,0 +1,12 @@
+places = ['japan', 'peru', 'azerbaidjan', 'costa rica', 'kenya', 'new zealand']
+print(places)
+print(sorted(places))
+print(places)
+places.reverse()
+print(places)
+places.reverse()
+print(places)
+places.sort()
+print(places)
+places.sort(reverse=True)
+print(places)

@@ -51,3 +51,5 @@ print(f"Heya {guests[1]} just to let you know that you're still invited!")
 del guests[0]
 del guests[0]
 print(guests)
+
+print(len(guests))
