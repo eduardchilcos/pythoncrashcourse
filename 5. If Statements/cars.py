@@ -36,3 +36,5 @@ print(fruit == 'watermelon')
 
 print("\nIs fruit == 'apple'? I predict False")
 print(fruit == 'apple')
+
+fruit = 'pear'

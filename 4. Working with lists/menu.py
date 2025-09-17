@@ -4,4 +4,4 @@ for food in foods:
 
 foods = ('broccoli', 'wings', 'burger', 'strips', 'pizza')
 for food in foods:
-    print(food)    
+    print(food)
