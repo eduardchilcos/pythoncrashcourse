@@ -23,7 +23,7 @@ print("\nIs car == 'ford'? I predict False.")
 print(car == 'ford')
 
 fruit = 'peach'
-print("Is fruit == 'peach'? I predict True")
+print("Is fruit == 'peach'? I predict True.")
 print(fruit == 'peach')
 
 print("\nIs fruit == 'apple'? I predict False.")
@@ -33,8 +33,6 @@ fruit = 'watermelon'
 print("Is fruit == 'watermelon'? I predict True.")
 print(fruit == 'watermelon')
 
-
-print("\nIs fruit == 'apple'? I predict False")
+print("\nIs fruit == 'apple'? I predict False.")
 print(fruit == 'apple')
 
-fruit = 'pear'
